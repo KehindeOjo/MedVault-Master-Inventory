@@ -2,8 +2,6 @@
 
 # 📊 MedVault Inventory Management & Stock Monitoring Dashboard
 
-[![Excel](badge-link)]()
-
 ![Dashboard Preview](./MedVault%20Dashboard%20Preview/MedVault-Inventory%20Dashboard%20Screenshot.jpg)
 
 *Turning raw inventory transactions into real-time, decision-ready visibility.*
